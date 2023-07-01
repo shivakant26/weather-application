@@ -1,0 +1,79 @@
+{
+    "weather":[
+        {
+            "id": 1,
+            "location": "Indore",
+            "weather_status": "Rain Shower",
+            "wind_speed":7.50,
+            "rain_percentage": 10,
+            "humidity": 55,
+            "visibility": 0.5,
+            "temprature":"12",
+            "wind_status": "Moderate",
+            "air_quality": {
+              "index": 42,
+              "status": "Good"
+            }
+          },
+          {
+            "id": 2,
+            "location": "Ujjain",
+            "weather_status": "Rain Shower",
+            "rain_percentage": 20,
+            "wind_speed":6.50,
+            "humidity": 65,
+            "temprature":"24",
+            "visibility": 1,
+            "wind_status": "Moderate",
+            "air_quality": {
+              "index": 42,
+              "status": "Good"
+            }
+          },
+          {
+            "id": 3,
+            "location": "Bhopal",
+            "weather_status": "Sunsine",
+            "rain_percentage": 30,
+            "wind_speed":4.50,
+            "humidity": 85,
+            "temprature":"23",
+            "visibility": 5,
+            "wind_status": "Moderate",
+            "air_quality": {
+              "index": 42,
+              "status": "Good"
+            }
+          },
+          {
+            "id": 4,
+            "location": "Jabalpur",
+            "weather_status": "Mostly Cloudly",
+            "rain_percentage": 40,
+            "humidity": 68,
+            "wind_speed":17.50,
+            "visibility": 10,
+            "temprature":"22",
+            "wind_status": "Moderate",
+            "air_quality": {
+              "index": 42,
+              "status": "Good"
+            }
+          },
+          {
+            "id": 5,
+            "location": "vidisha",
+            "weather_status": "Rain Shower",
+            "rain_percentage": 50,
+            "wind_speed":37.50,
+            "humidity": 58,
+            "visibility":6.7,
+            "temprature":"18",
+            "wind_status": "Moderate",
+            "air_quality": {
+              "index": 42,
+              "status": "Good"
+            }
+          }
+    ]
+}
